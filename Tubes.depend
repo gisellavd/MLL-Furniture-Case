@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1641822054 source:c:\users\rabbit7\downloads\codeblock\tubes\main.cpp
+	"tubes.h"
+
+1641822036 c:\users\rabbit7\downloads\codeblock\tubes\tubes.h
+	<iostream>
+
+1641865557 source:c:\users\rabbit7\downloads\codeblock\tubes\tubes.cpp
+	"tubes.h"
+
